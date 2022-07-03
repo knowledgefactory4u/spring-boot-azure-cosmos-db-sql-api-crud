@@ -9,7 +9,7 @@ Step 2:  ```mvn clean install```
 
 Step 3:  ```mvn spring-boot:run```
 
-More Info - 
+More Info - https://www.knowledgefactory.net/2022/07/build-rest-crud-apis-with-spring-boot-azure-cosmos-db-and-azure-cosmos-db-sql-api.html
 
 
 
